@@ -1,4 +1,4 @@
-# ICP-Data-Science-Question-Set
+# Data-Science-Question-Set
 Question set about Data Science for the course Introduction to Computer Programming
 
 The file WorldBank.txt contains the total fertility rate and the GDP per capita in US$ (under the variable GDP) 
