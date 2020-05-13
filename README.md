@@ -1,5 +1,5 @@
 # Stats Calculator in Python
-Question set about Data Science for the course Introduction to Computer Programming
+Question set about Data Science
 
 The file WorldBank.txt contains the total fertility rate and the GDP per capita in US$ (under the variable GDP) 
 of 180 countries and regions in 2013 collected by the World Bank. 
